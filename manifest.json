@@ -1,6 +1,6 @@
 {
-  "name": "Percent — Smart Calculator",
-  "short_name": "Percent",
+  "name": "name": "Yüzde Hesaplama",
+  "short_name": "name": "Yüzde Hesaplama",
   "description": "Smart percentage calculator with 6 calculation modes",
   "start_url": "/Calculator-Percent/",
   "scope": "/Calculator-Percent/",
